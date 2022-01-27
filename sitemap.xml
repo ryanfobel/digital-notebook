@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ryanfobel.github.io/test-blog/climate/jupyter/2022/01/27/case_study.html</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/climate/jupyter/2022/01/27/case_study.html</loc>
 <lastmod>2022-01-27T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/jupyter/climate/electrification/2022/01/28/Intro-to-home-co2-accounting.html</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/jupyter/climate/electrification/2022/01/28/Intro-to-home-co2-accounting.html</loc>
 <lastmod>2022-01-28T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/2022/02/04/Getting-hourly-data-from-KWhydro.html</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/2022/02/04/Getting-hourly-data-from-KWhydro.html</loc>
 <lastmod>2022-02-04T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/about/</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/about/</loc>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/</loc>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/search/</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/search/</loc>
 </url>
 <url>
-<loc>https://ryanfobel.github.io/test-blog/categories/</loc>
+<loc>https://ryanfobel.github.io/digital-notebook/categories/</loc>
 </url>
 </urlset>
