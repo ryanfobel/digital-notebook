@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://ryanfobel.github.io/test-blog/2022/01/26/Test-kicad_helpers.html</loc>
+<lastmod>2022-01-26T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://ryanfobel.github.io/test-blog/2022/01/26/kitchener_utilities.html</loc>
+<lastmod>2022-01-26T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://ryanfobel.github.io/test-blog/2022/01/26/kitchener_wilmot_hydro.html</loc>
+<lastmod>2022-01-26T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://ryanfobel.github.io/test-blog/2022/01/26/kitchener_wilmot_hydro_hourly.html</loc>
+<lastmod>2022-01-26T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>https://ryanfobel.github.io/test-blog/jupyter/2022/01/27/Home-co2-emissions.html</loc>
+<lastmod>2022-01-27T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://ryanfobel.github.io/test-blog/climate/jupyter/2022/01/27/case_study.html</loc>
 <lastmod>2022-01-27T00:00:00-06:00</lastmod>
 </url>
 <url>
